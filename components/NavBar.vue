@@ -1,0 +1,19 @@
+<template>
+    <header
+    class="
+    sticky 
+    top-0 
+    z-50 
+    flex 
+    justify-between 
+    items-center 
+    space-x-1 
+    border-b 
+    bg-black 
+    p-4 
+    shadow-md
+    "
+    >
+        <a class="text-4xl font-mono" href="">spotify-transfer-app</a>
+    </header>
+</template>
